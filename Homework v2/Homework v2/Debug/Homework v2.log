@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\Usuario\source\repos\Homework v2\Homework v2\Header.h(105,1): warning C4326:  el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\Usuario\source\repos\Homework v2\Homework v2\Header.h(107,31): warning C4305:  'argumento': truncamiento de 'double' a 'T'
+C:\Users\Usuario\source\repos\Homework v2\Homework v2\Header.h(107,31): warning C4305:         with
+C:\Users\Usuario\source\repos\Homework v2\Homework v2\Header.h(107,31): warning C4305:         [
+C:\Users\Usuario\source\repos\Homework v2\Homework v2\Header.h(107,31): warning C4305:             T=float
+C:\Users\Usuario\source\repos\Homework v2\Homework v2\Header.h(107,31): warning C4305:         ]
+C:\Users\Usuario\source\repos\Homework v2\Homework v2\Header.h(108,31): warning C4305:  'argumento': truncamiento de 'double' a 'T'
+C:\Users\Usuario\source\repos\Homework v2\Homework v2\Header.h(108,31): warning C4305:         with
+C:\Users\Usuario\source\repos\Homework v2\Homework v2\Header.h(108,31): warning C4305:         [
+C:\Users\Usuario\source\repos\Homework v2\Homework v2\Header.h(108,31): warning C4305:             T=float
+C:\Users\Usuario\source\repos\Homework v2\Homework v2\Header.h(108,31): warning C4305:         ]
+  Homework v2.vcxproj -> C:\Users\Usuario\source\repos\Homework v2\Debug\Homework v2.exe
